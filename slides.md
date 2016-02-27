@@ -28,10 +28,11 @@ background-image: url(./img/bg-developer.jpg)
 
 1. Why Agile?
 1. Why Meteor?
-1. How Meteor?
-1. How Agile?
+1. How to Meteor?
+1. How to Agile?
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
 ---
 class: center, middle, inverse
 
@@ -122,6 +123,7 @@ Oui, car utiliser une méthode agile permet de:
 - retrospective: améliorer le process à chaque fin de sprint
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
 ---
 class: center, middle, inverse
 
@@ -165,10 +167,11 @@ Compared to other technologies
 ]
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
 ---
 class: center, middle, inverse
 
-# 3. How Meteor?
+# 3. How to Meteor?
 
 Coding a startup product from scratch
 
@@ -177,11 +180,90 @@ Coding a startup product from scratch
 - chronological (live-coding-like) summary of how I built the product efficiently using meteor packages
 - some problems found during development, and how I handled them
 
+---
+
+# Sprint 1: *"a client can buy a product"*
+
+In 30 hours of development:
+
+- user signup/login (out of the box)
+- responsive design (bootstrap)
+- display a list of products
+- payment (stripe)
+- confirmation emails (sendgrid)
+- deployed in 2 minutes on a \*.meteor.com URL
+- onboarding form with material design
+- automated tests (chimp)
+- extra time: added a wishlist feature
+
+---
+
+# Sprint 2: *"a client can rent a specific product"*
+
+In 30 hours of development:
+
+- search & filters
+- subscriptions (stripe)
+- account deletion
+- design integration
+
+---
+
+# Sprint 3: *"a client can book products in advance"*
+
+In 30 hours of development:
+
+- user management
+- booking/stock management
+- ui/ux improvements
+
+---
+
+# Sprint 4: *"the admin can manage users and bookings"*
+
+In 30 hours of development:
+
+- back-office
+- ui/ux improvements
+- pre-production (scalingo)
+- landing page on startup's domain name
+
+---
+class: center
+background-image: url(./img/bg-success.jpg)
+
+<!-- https://www.pexels.com/photo/landscape-mountains-nature-man-1005/ -->
+
+# .blurred-bg.highlight[ Achievements ]
+
+.col-50pct.pull-left[
+  .blurred-bg.highlight[ A fully-functional, ]
+
+  .blurred-bg.highlight[ mobile-first, ]
+
+  .blurred-bg.highlight[ 100% custom ]
+
+  .blurred-bg.highlight[ e-commerce website, ]
+
+  .blurred-bg.highlight[ developed in 4 weeks. ]
+]
+
+--
+
+.col-50pct.pull-left[
+  .blurred-bg.highlight[ Thanks to: ]
+
+  .blurred-bg.highlight[ \- Meteor technology ]
+
+  .blurred-bg.highlight[ \- Agile methodology ]
+]
+
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
 ---
 class: center, middle, inverse
 
-# 4. How Agile?
+# 4. How to Agile?
 
 Methodology and interactions with the startup
 

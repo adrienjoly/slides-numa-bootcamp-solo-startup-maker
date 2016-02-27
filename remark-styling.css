@@ -57,6 +57,10 @@ li {
   width: 25%;
 }
 
+.col-50pct {
+  width: 50%;
+}
+
 .center {
   text-align: center;
 }
@@ -94,6 +98,11 @@ li {
   margin-top: 20px;
 }
 
+.highlight {
+  padding: 5px 10px;
+  border-radius: 15px;
+}
+
 /* my styling */
 
 .bold {
@@ -107,4 +116,8 @@ li {
 .white-on-black {
   color: white;
   background-color: black;
+}
+
+.blurred-bg {
+  background-color: rgba(255,255,255,0.5);
 }
