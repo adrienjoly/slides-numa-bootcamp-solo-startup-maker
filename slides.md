@@ -2,7 +2,7 @@ class: center, bottom
 background-image: url(bg-developer.jpg)
 <!-- https://www.pexels.com/photo/couch-conference-concentration-startup-7111/ -->
 
-# .white-on-black[ How to make a startup product efficiently, as a solo developer with Meteor.js ]
+# .white-on-black[ How to make a startup product efficiently,<br/>as a solo developer with Meteor.js ]
 
 ### .white-on-black[ NUMA Sprint Bootcamp 2016 ]
 
