@@ -131,6 +131,14 @@ class: center, middle, inverse
 
 ---
 
+# .absolute[ Trends of Web Technologies ]
+
+![](./img/tech-positioning.svg)
+
+.footnote[ \* *This is just my point of view* ]
+
+---
+
 # ![ Meteor ](./img/meteor-logo.png)
 
 - Since 2012, free and open-source
@@ -143,7 +151,7 @@ class: center, middle, inverse
 
 ---
 
-# ![ Meteor ](./img/meteor-logo.png)  - Examples
+# ![ Meteor ](./img/meteor-logo.png)  - Example
 
 .center[
   <iframe id="ytplayer" width="640" height="360" src="https://www.youtube.com/embed/OtlO2NAq9fg?rel=0&amp;controls=0&amp;showinfo=0&amp;start=67&amp;end=90&amp;enablejsapi=1" frameborder="0" allowfullscreen></iframe>

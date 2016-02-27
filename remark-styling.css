@@ -18,6 +18,11 @@ li {
   line-height: 2;
 }
 
+.footnote {
+  position: absolute;
+  bottom: 3em;
+}
+
 .remark-code, .remark-inline-code {
   font-family: 'Ubuntu Mono';
 }
@@ -41,6 +46,10 @@ li {
 }
 
 /* my layout helpers */
+
+.absolute {
+  position: absolute;
+}
 
 .col-25pct {
   overflow: auto;
