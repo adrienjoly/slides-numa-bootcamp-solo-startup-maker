@@ -41,20 +41,19 @@
       }
       .comment { display: none; }
       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .white-on-black {
+        color: white;
+        background-color: black;
+      }
     </style>
   </head>
   <body>
-    <textarea id="source">
-class: center, middle
-
-# NUMA Sprint Bootcamp 2016
-# bootcamp-solo-startup-maker
-
-    </textarea>
     <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
     </script>
     <script>
-      var slideshow = remark.create();
+      var slideshow = remark.create({
+        sourceUrl: 'slides.md'
+      });
     </script>
   </body>
 </html>
