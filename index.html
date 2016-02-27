@@ -3,56 +3,14 @@
   <head>
     <title>Slides Adrien Joly @ Numa Sprint Bootcamp 2016</title>
     <meta charset="utf-8">
-    <style>
-      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
-      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
-
-      body { font-family: 'Droid Serif'; }
-      h1, h2, h3 {
-        font-family: 'Yanone Kaffeesatz';
-        font-weight: normal;
-      }
-      li {
-        clear: left;
-        line-height: 2;
-      }
-      .wide img {
-        width: 100%;
-      }
-      .column {
-        color: #777;
-        width: 49%;
-        height: 92%;
-        float: left;
-      }
-      .column img {
-        display: inline;
-        max-width: 100%;
-      }
-      .clear {
-        clear: both;
-      }
-      .pull-left {
-        float: left;
-      }
-      .pull-right {
-        float: right;
-      }
-      .comment { display: none; }
-      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-      .white-on-black {
-        color: white;
-        background-color: black;
-      }
-    </style>
+    <link rel="stylesheet" type="text/css" href="remark-styling.css">
   </head>
   <body>
-    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
-    </script>
+    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js"></script>
     <script>
       var slideshow = remark.create({
-        sourceUrl: 'slides.md'
+        sourceUrl: 'slides.md',
+        navigation: { scroll: false }
       });
     </script>
   </body>
