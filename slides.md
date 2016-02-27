@@ -1,4 +1,4 @@
-class: center, bottom
+class: center, bottom, full-bg-image
 background-image: url(./img/bg-developer.jpg)
 <!-- https://www.pexels.com/photo/couch-conference-concentration-startup-7111/ -->
 
@@ -22,6 +22,7 @@ Synopsis:
   - and how I applied it as a solo developer on their ambitious startup product.
 
 ---
+class: full-bg-image
 background-image: url(./img/bg-developer.jpg)
 
 # Summary
@@ -106,7 +107,7 @@ Or, why waterfalls suck.
 .wide[![](./img/lean.jpg)]
 
 ---
-class: right
+class: right, full-bg-image
 background-image: url(./img/bg-runner.jpg)
 <!-- https://www.pexels.com/photo/red-people-outside-sport-2207/ -->
 
@@ -245,7 +246,7 @@ In 30 hours of development:
 .gray[ Packages&#58; roles, flow-db-admin ]
 
 ---
-class: center
+class: center, full-bg-image
 background-image: url(./img/bg-success.jpg)
 
 <!-- https://www.pexels.com/photo/landscape-mountains-nature-man-1005/ -->
@@ -278,7 +279,6 @@ background-image: url(./img/bg-success.jpg)
 
 ---
 class: center, middle, inverse
-
 # 4. How to Agile?
 
 Interactions between product owner and developer
@@ -288,3 +288,84 @@ Interactions between product owner and developer
 - how I split up the work into sprints
 - what were the deliverables and input/reference documents that I asked to the client
 - what worked great, what could have been better => advice for numa startups
+
+---
+# Anatomy of an agile Sprint
+
+.center[ ![](./img/diagram.svg) ]
+
+---
+class: full-bg-image
+background-image: url(./img/user-story-card-1.jpg)
+# .highlight.blurred-bg[ Unit = User Story Card ]
+
+---
+class: full-bg-image
+background-image: url(./img/user-story-card-2.jpg)
+
+---
+# Designing Wireframes from stories
+
+.wide[ ![](./img/wireframes.jpg) ]
+
+---
+class: left-bg-image
+background-image: url(./img/backlog.jpg)
+
+.col-50pct.pull-right[
+  # The Backlog
+
+  1. Owner lists **user stories**
+
+  2. Owner prioritizes: **most valuable first**
+
+  3. Team **estimates** cost of each story
+
+  4. Owner **picks stories** for next sprint
+
+  5. The rest is kept for following sprints
+]
+<!-- as generated from http://bramp.github.io/js-sequence-diagrams/
+Owner->Design: User stories
+Design->Dev: Wireframes
+Dev->Owner: Questions & Validation
+Owner->Design: Prioritization
+Design->Dev: Assets
+Dev->Owner: Delivery
+-->
+
+---
+# Sprint backlog -> Kanban board
+
+.wide[ ![](./img/kanban.jpg) ]
+
+
+---
+# E.g. team share progress status on Trello
+
+.wide[ ![](./img/trello.png) ]
+
+---
+class: right-bg-image
+background-image: url(./img/done.jpg)
+# End of sprint
+
+.col-50pct.pull-left[
+1. Developer **delivers** implementation
+
+1. Implemented stories are **usable**
+
+1. Owner/client/users provide **feedback**
+
+1. **Retrospective** for improvement
+  
+1. Owner picks stories for **next sprint**
+]
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+---
+class: center, middle, inverse
+# Enjoy (efficiently) :-p
+
+Questions / suggestions -> @adrienjoly

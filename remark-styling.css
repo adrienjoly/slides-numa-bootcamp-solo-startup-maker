@@ -40,9 +40,19 @@ li {
 
 /* my customizations */
 
-.remark-slide-content {
+.full-bg-image {
   background-size: cover !important;
   background-position: 50% 50% !important;
+}
+
+.left-bg-image {
+  background-size: contain !important;
+  background-position: left 50% !important;
+}
+
+.right-bg-image {
+  background-size: contain !important;
+  background-position: right 50% !important;
 }
 
 /* my layout helpers */
