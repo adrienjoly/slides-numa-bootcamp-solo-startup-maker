@@ -113,6 +113,10 @@ li {
   width: 100%;
 }
 
+.gray {
+  color: gray;
+}
+
 .white-on-black {
   color: white;
   background-color: black;

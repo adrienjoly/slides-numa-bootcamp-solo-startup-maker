@@ -196,6 +196,10 @@ In 30 hours of development:
 - automated tests (chimp)
 - extra time: added a wishlist feature
 
+--
+
+.gray[ Packages&#58; flow-router, accounts-password, bootstrap, bootstrap-3-modal, toastr, collection2, autoform, collection-helpers, collection-hooks, stripe, email ]
+
 ---
 
 # Sprint 2: *"a client can rent a specific product"*
@@ -207,6 +211,10 @@ In 30 hours of development:
 - account deletion
 - design integration
 
+--
+
+.gray[ Packages&#58; autoform-materialize, persistent-session, owl-carousel, slideout ]
+
 ---
 
 # Sprint 3: *"a client can book products in advance"*
@@ -216,6 +224,10 @@ In 30 hours of development:
 - user management
 - booking/stock management
 - ui/ux improvements
+
+--
+
+.gray[ Packages&#58; moment ]
 
 ---
 
@@ -227,6 +239,10 @@ In 30 hours of development:
 - ui/ux improvements
 - pre-production (scalingo)
 - landing page on startup's domain name
+
+--
+
+.gray[ Packages&#58; roles, flow-db-admin ]
 
 ---
 class: center
@@ -265,12 +281,10 @@ class: center, middle, inverse
 
 # 4. How to Agile?
 
-Methodology and interactions with the startup
+Interactions between product owner and developer
 
 ???
 
 - how I split up the work into sprints
 - what were the deliverables and input/reference documents that I asked to the client
 - what worked great, what could have been better => advice for numa startups
-
-.wide[![google images ui screenshot](./J/ui.jpg)]
