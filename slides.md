@@ -22,6 +22,7 @@ Synopsis:
   - and how I applied it as a solo developer on their ambitious startup product.
 
 ---
+background-image: url(./img/bg-developer.jpg)
 
 # Summary
 
@@ -35,6 +36,8 @@ Synopsis:
 class: center, middle, inverse
 
 # 1. Why Agile?
+
+Or, why waterfalls suck.
 
 ???
 
@@ -124,6 +127,8 @@ class: center, middle, inverse
 
 # 2. Why Meteor?
 
+Compared to other technologies
+
 ???
 
 - quick panel of existing languages/technologies for building web products; their pros and cons
@@ -135,7 +140,7 @@ class: center, middle, inverse
 
 ![](./img/tech-positioning.svg)
 
-.footnote[ \* *This is just my point of view* ]
+.footnote[ \* *This just illustrates my point of view* ]
 
 ---
 
@@ -165,6 +170,8 @@ class: center, middle, inverse
 
 # 3. How Meteor?
 
+Coding a startup product from scratch
+
 ???
 
 - chronological (live-coding-like) summary of how I built the product efficiently using meteor packages
@@ -175,6 +182,8 @@ class: center, middle, inverse
 class: center, middle, inverse
 
 # 4. How Agile?
+
+Methodology and interactions with the startup
 
 ???
 
