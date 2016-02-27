@@ -182,8 +182,10 @@ Coding a startup product from scratch
 - some problems found during development, and how I handled them
 
 ---
+class: right-bg-image
+background-image: url(./img/panoply-sprint-1.png)
 
-# Sprint 1: *"a client can buy a product"*
+# .highlight.blurred-bg[ Sprint 1: *"a client can buy a product"* ]
 
 In 30 hours of development:
 
@@ -199,11 +201,13 @@ In 30 hours of development:
 
 --
 
-.gray[ Packages&#58; flow-router, accounts-password, bootstrap, bootstrap-3-modal, toastr, collection2, autoform, collection-helpers, collection-hooks, stripe, email ]
+.gray.highlight.blurred-bg[ Packages&#58; flow-router, accounts-password, bootstrap, bootstrap-3-modal, toastr, collection2, autoform, collection-helpers, collection-hooks, stripe, email ]
 
 ---
+class: right-bg-image
+background-image: url(./img/panoply-sprint-2.png)
 
-# Sprint 2: *"a client can rent a specific product"*
+# .highlight.blurred-bg[ Sprint 2: *"a client can rent a specific product"* ]
 
 In 30 hours of development:
 
@@ -214,11 +218,13 @@ In 30 hours of development:
 
 --
 
-.gray[ Packages&#58; autoform-materialize, persistent-session, owl-carousel, slideout ]
+.gray.highlight.blurred-bg[ Packages&#58; autoform-materialize, persistent-session, owl-carousel, slideout ]
 
 ---
+class: right-bg-image
+background-image: url(./img/panoply-sprint-3.png)
 
-# Sprint 3: *"a client can book products in advance"*
+# .highlight.blurred-bg[ Sprint 3: *"a client can book products in advance"* ]
 
 In 30 hours of development:
 
@@ -231,8 +237,10 @@ In 30 hours of development:
 .gray[ Packages&#58; moment ]
 
 ---
+class: right-bg-image
+background-image: url(./img/panoply-sprint-4.png)
 
-# Sprint 4: *"the admin can manage users and bookings"*
+# .highlight.blurred-bg[ Sprint 4: *"the admin can manage users and bookings"* ]
 
 In 30 hours of development:
 
