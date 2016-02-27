@@ -43,8 +43,9 @@ li {
 /* my layout helpers */
 
 .col-25pct {
-  display: inline-block;
-  width: 24%;
+  overflow: auto;
+  float: left;
+  width: 25%;
 }
 
 .center {
@@ -52,6 +53,11 @@ li {
 }
 
 .clear {
+  clear: both;
+}
+
+.clear-block {
+  display: block;
   clear: both;
 }
 
@@ -75,7 +81,15 @@ li {
   max-width: 100%;
 }
 
+.margin-20px {
+  margin-top: 20px;
+}
+
 /* my styling */
+
+.bold {
+  font-weight: bold;
+}
 
 .wide img {
   width: 100%;

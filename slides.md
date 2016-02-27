@@ -53,6 +53,40 @@ class: center, middle, inverse
 
 ---
 
+# The Waterfall problem
+
+.col-25pct[
+  .wide[![](./img/devreq1.png)]
+]
+.col-25pct[
+  .center.bold[ Startup: ]
+  - wrote specs
+  - set a deadline
+  - delegated to the developer
+]
+
+--
+
+.col-25pct[
+  .wide[![](./img/devreq3.png)]
+]
+.col-25pct[
+  .center.bold[ Developer: ]
+  - (mis)interpreted the specs
+  - avoided/reduced communication, to save time
+]
+
+--
+
+.clear-block[]
+.center.bold.margin-20px[
+  => The resulting product does not comply to the startup's needs
+
+  => Waste of time and money
+]
+
+---
+
 # From Waterfall to Agile
 
 .center[![](./img/agile-1.jpg)]
@@ -66,6 +100,23 @@ class: center, middle, inverse
 # From Waterfall to Agile to Lean Startup
 
 .wide[![](./img/lean.jpg)]
+
+---
+class: right
+background-image: url(./img/bg-runner.jpg)
+<!-- https://www.pexels.com/photo/red-people-outside-sport-2207/ -->
+
+# .white-on-black[ Agile for solo developer? ]
+
+???
+
+Oui, car utiliser une méthode agile permet de:
+
+- maintenir un backlog
+- développer le produit étape par étape
+- découper les fonctionnalités en petites taches (user story cards)
+- forcer l'estimation/chiffrage de chaque tache => décision possible
+- retrospective: améliorer le process à chaque fin de sprint
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 ---
