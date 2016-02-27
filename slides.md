@@ -56,7 +56,7 @@ class: center, middle, inverse
 ---
 class: center, middle, inverse
 
-# How Meteor?
+# 3. How Meteor?
 
 ???
 
@@ -66,7 +66,7 @@ class: center, middle, inverse
 ---
 class: center, middle, inverse
 
-# How Agile?
+# 4. How Agile?
 
 ???
 
