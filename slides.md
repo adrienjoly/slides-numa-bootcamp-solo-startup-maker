@@ -6,9 +6,7 @@ background-image: url(./img/bg-developer.jpg)
 
 ### .white-on-black[ NUMA Sprint Bootcamp 2016 ]
 
-<!--
-Press P to toggle Presenter mode
--->
+<!-- Press P to toggle Presenter mode, and display presenter notes below: -->
 
 ???
 
@@ -32,6 +30,7 @@ Synopsis:
 1. How Meteor?
 1. How Agile?
 
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 ---
 class: center, middle, inverse
 
@@ -44,6 +43,32 @@ class: center, middle, inverse
 - why agile in solo?
 
 ---
+
+# From startup idea to software
+
+.col-25pct[ .wide[![](./img/devreq1.png)] .center[How the CEO explained it] ]
+.col-25pct[ .wide[![](./img/devreq2.png)] .center[How the web agency understood it] ]
+.col-25pct[ .wide[![](./img/devreq3.png)] .center[How the developer coded it] ]
+.col-25pct[ .wide[![](./img/devreq4.png)] .center[What the startup actually needs] ]
+
+---
+
+# From Waterfall to Agile
+
+.center[![](./img/agile-1.jpg)]
+--
+.center[![](./img/agile-2.jpg)]
+--
+.center[![](./img/agile-3.jpg)]
+
+---
+
+# From Waterfall to Agile to Lean Startup
+
+.wide[![](./img/lean.jpg)]
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+---
 class: center, middle, inverse
 
 # 2. Why Meteor?
@@ -53,6 +78,7 @@ class: center, middle, inverse
 - quick panel of existing languages/technologies for building web products; their pros and cons
 - from javascript/node to meteor, and why meteor is great for bootstrapping and evolving a product
 
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 ---
 class: center, middle, inverse
 
@@ -63,6 +89,7 @@ class: center, middle, inverse
 - chronological (live-coding-like) summary of how I built the product efficiently using meteor packages
 - some problems found during development, and how I handled them
 
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 ---
 class: center, middle, inverse
 
