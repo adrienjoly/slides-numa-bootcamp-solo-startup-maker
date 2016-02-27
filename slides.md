@@ -1,5 +1,5 @@
 class: center, bottom
-background-image: url(bg-developer.jpg)
+background-image: url(./img/bg-developer.jpg)
 <!-- https://www.pexels.com/photo/couch-conference-concentration-startup-7111/ -->
 
 # .white-on-black[ How to make a startup product efficiently,<br/>as a solo developer with Meteor.js ]
