@@ -129,6 +129,28 @@ class: center, middle, inverse
 - quick panel of existing languages/technologies for building web products; their pros and cons
 - from javascript/node to meteor, and why meteor is great for bootstrapping and evolving a product
 
+---
+
+# ![ Meteor ](./img/meteor-logo.png)
+
+- Since 2012, free and open-source
+- **RoR-inspired** framework for rapid application development
+- **Universal Javascript**: same language on front-end and back-end
+- Make **web and mobile** apps from the same codebase
+- **Reactive**/real-time rendering
+- **Modern stack**: Node.js, MongoDB, React or Angular
+- 9900+ Full-stack packages => **productivity**
+
+---
+
+# ![ Meteor ](./img/meteor-logo.png)  - Examples
+
+.center[
+  <iframe id="ytplayer" width="640" height="360" src="https://www.youtube.com/embed/OtlO2NAq9fg?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1&amp;loop=1&amp;start=67&amp;end=90&amp;enablejsapi=1" frameborder="0" allowfullscreen></iframe>
+
+  E-commerce website done by a beginner in 2 weeks.
+]
+
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 ---
 class: center, middle, inverse
