@@ -561,7 +561,7 @@ prêts pour une rafale de tips? :-)
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
 ---
-# Free tips!
+# Free startup tips!
 
 1. Make and deliver the most useful/valuable function first
 
@@ -581,7 +581,7 @@ prêts pour une rafale de tips? :-)
 - n'attendez pas le début de sprint pour décider ce qu'il faut faire. prédéfinissez vos étapes à 3 mois puis suivez-les.
 
 --
-4. Pick a development process and apply it seriously
+4. Pick a development process (e.g. agile) and apply it seriously
 
 ???
 - coder "vite fait" au fil de l'eau est rarement une bonne idée. inspirez vous d'agile/lean pour vous forcer à planifier, estimer, décider, tester.
@@ -608,13 +608,13 @@ prêts pour une rafale de tips? :-)
 8. Help each other! E.g. be the scrum master of another startup
 
 ???
-oussama amar: conseils d'entrepreneur = mal. par contre vous pouvez vous entraider sur le process. => ex: scrum master neutre.
+- oussama amar: conseils d'entrepreneur = mal. par contre vous pouvez vous entraider sur le process. => ex: scrum master neutre.
 
 --
 9. Blog about your experience, to share your insights and tips!
 
 ???
-startups et entrepreneurs: ecosystème d'entraide et de partage de connaissances. donnez, on vous le rendra!
+- startups et entrepreneurs: ecosystème d'entraide et de partage de connaissances. donnez, on vous le rendra!
 
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
